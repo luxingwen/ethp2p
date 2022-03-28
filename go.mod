@@ -14,6 +14,8 @@ require (
 	github.com/influxdata/influxdb-client-go/v2 v2.8.1
 	github.com/jackpal/go-nat-pmp v1.0.2
 	github.com/jedisct1/go-minisign v0.0.0-20211028175153-1c139d1cc84b
+	github.com/mattn/go-colorable v0.1.12 // indirect
+	github.com/mattn/go-isatty v0.0.14 // indirect
 	github.com/shirou/gopsutil v2.21.11+incompatible
 	github.com/stretchr/testify v1.7.1
 	github.com/syndtr/goleveldb v1.0.0
